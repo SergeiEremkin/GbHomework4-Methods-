@@ -14,5 +14,5 @@ void ArrShow(int[] arr)
     }
 }
 int[] arr = new int[8];
-ArrFeel(arr);cd
+ArrFeel(arr);
 ArrShow(arr);
